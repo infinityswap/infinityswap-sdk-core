@@ -16,7 +16,7 @@ export enum ChainId {
   HARMONY_B = 1666700000,
   OETH = 10,
   BSC = 56,
-  CHAPEL = 97,
+  CHAPEL = 97
 }
 
 export enum TradeType {
